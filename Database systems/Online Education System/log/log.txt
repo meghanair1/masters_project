@@ -1,0 +1,174 @@
+2018.28.25 01:28:18  Invalid input for log in!
+2018.28.25 01:28:20  Invalid input for log in!
+2018.28.25 01:28:22  Invalid input for log in!
+2018.28.25 01:28:25  you successfully logged in as a Instructor
+2018.28.25 01:28:46  Option 1: View Category executed successfully
+2018.28.25 01:28:48  Exiting the Online Education Application
+2018.28.25 01:28:56  you successfully logged in as a Instructor
+2018.29.25 01:29:10  Option 1: View Category executed successfully
+2018.29.25 01:29:15  Option 2: View students enrolled in different courses executed successfully
+2018.29.25 01:29:24  Option 2: View students enrolled in different courses executed successfully
+2018.29.25 01:29:40  Option 3: Create courses executed successfully
+2018.29.25 01:29:57  Option 6: View section for each course executed successfully
+2018.30.25 01:30:05  Exiting the Online Education Application
+2018.30.25 01:30:10  you successfully logged in as a Student
+2018.31.25 01:31:09  Option 3. View sections for a courses executed successfully
+2018.31.25 01:31:12  continue to choose the option
+2018.31.25 01:31:26  Exiting the Online Education Application
+2018.32.25 01:32:49  you successfully logged in as a Instructor
+2018.33.25 01:33:18  Option 4: Create sections executed successfully
+2018.33.25 01:33:47  Option 6: View section for each course executed successfully
+2018.33.25 01:33:56  Exiting the Online Education Application
+2018.34.25 01:34:05  you successfully logged in as a Instructor
+2018.34.25 01:34:30  Option 4: Create sections executed successfully
+2018.34.25 01:34:35  Exiting the Online Education Application
+2018.38.25 02:38:14  you successfully logged in as a Instructor
+2018.38.25 02:38:26  Option 2: View students enrolled in different courses executed successfully
+2018.38.25 02:38:47  you successfully logged in as a Instructor
+2018.38.25 02:38:54  Option 2: View students enrolled in different courses executed successfully
+2018.39.25 02:39:04  you successfully logged in as a Instructor
+2018.39.25 02:39:11  Option 2: View students enrolled in different courses executed successfully
+2018.22.25 03:22:52  you successfully logged in as a Instructor
+2018.00.25 04:00:53  you successfully logged in as a Instructor
+2018.59.25 05:59:24  you successfully logged in as a Instructor
+2018.21.25 07:21:14  you successfully logged in as a Instructor
+2018.27.25 07:27:14  Option 1: View Category executed successfully
+2018.27.25 07:27:24  Option 2: View students enrolled in different courses executed successfully
+2018.27.25 07:27:39  Option 2: View students enrolled in different courses executed successfully
+2018.28.25 07:28:03  Option 3: Create courses executed successfully
+2018.28.25 07:28:34  you successfully logged in as a Instructor
+2018.32.25 07:32:01  Option 2: View students enrolled in different courses executed successfully
+2018.32.25 07:32:35  Primary key cannot be duplicate. Choose a different value
+2018.32.25 07:32:35  Option 3: Create courses executed successfully
+2018.32.25 07:32:51  Option 3: Create courses executed successfully
+2018.33.25 07:33:10  Option 5: View courses created executed successfully
+2018.33.25 07:33:38  Option 9: Delete course executed successfully
+2018.34.25 07:34:33  Option 5: View courses created executed successfully
+2018.34.25 07:34:40  Exiting the Online Education Application
+2018.36.25 07:36:21  you successfully logged in as a Student
+2018.36.25 07:36:32  Option 1. View Category executed successfully
+2018.36.25 07:36:36  continue to choose the option
+2018.36.25 07:36:37  Option 2. View courses of a category executed successfully
+2018.37.25 07:37:18  you successfully logged in as a Student
+2018.37.25 07:37:22  Option 2. View courses of a category executed successfully
+2018.37.25 07:37:34  continue to choose the option
+2018.40.25 07:40:56  you successfully logged in as a Student
+2018.41.25 07:41:09  Option 1. View Category executed successfully
+2018.41.25 07:41:13  continue to choose the option
+2018.41.25 07:41:14  Option 2. View courses of a category executed successfully
+2018.41.25 07:41:42  you successfully logged in as a Student
+2018.41.25 07:41:48  Option 2. View courses of a category executed successfully
+2018.42.25 07:42:39  continue to choose the option
+2018.42.25 07:42:54  you successfully logged in as a Instructor
+2018.42.25 07:42:58  you successfully logged in as a Student
+2018.43.25 07:43:01  Option 2. View courses of a category executed successfully
+2018.43.25 07:43:06  continue to choose the option
+2018.51.25 07:51:29  you successfully logged in as a Instructor
+2018.51.25 07:51:50  Invalid input for log in!
+2018.52.25 07:52:10  you successfully logged in as a Instructor
+2018.52.25 07:52:15  Option 1: View Category executed successfully
+2018.52.25 07:52:18  Exiting the Online Education Application
+2018.52.25 07:52:27  you successfully logged in as a Instructor
+2018.52.25 07:52:33  Option 2: View students enrolled in different courses executed successfully
+2018.52.25 07:52:49  Option 3: Create courses executed successfully
+2018.55.25 07:55:50  Option 3: Create courses executed successfully
+2018.55.25 07:55:57  Option 1: View Category executed successfully
+2018.55.25 07:55:58  Exiting the Online Education Application
+2018.56.25 07:56:05  you successfully logged in as a Student
+2018.00.25 08:00:54  Option 1. View Category executed successfully
+2018.00.25 08:00:57  continue to choose the option
+2018.01.25 08:01:02  Option 2. View courses of a category executed successfully
+2018.01.25 08:01:08  continue to choose the option
+2018.01.25 08:01:13  Option 7: View your grades executed successfully
+2018.10.25 09:10:22  you successfully logged in as a Student
+2018.13.25 09:13:55  you successfully logged in as a Student
+2018.14.25 09:14:58  Option 4. Enroll in a section executed successfully
+2018.15.25 09:15:36  you successfully logged in as a Student
+2018.16.25 09:16:04  Option 4. Enroll in a section executed successfully
+2018.16.25 09:16:14  continue to choose the option
+2018.16.25 09:16:30  Option 5: Drop a class(section) executed successfully
+2018.16.25 09:16:35  continue to choose the option
+2018.16.25 09:16:39  Option 7: View your grades executed successfully
+2018.26.25 09:26:22  you successfully logged in as a Student
+2018.27.25 09:27:25  Option 4. Enroll in a section executed successfully
+2018.27.25 09:27:34  continue to choose the option
+2018.27.25 09:27:45  Option 5: Drop a class(section) executed successfully
+2018.27.25 09:27:48  continue to choose the option
+2018.27.25 09:27:50  Option 7: View your grades executed successfully
+2018.28.25 09:28:06  you successfully logged in as a Instructor
+2018.28.25 09:28:45  Option 2: View students enrolled in different courses executed successfully
+2018.29.25 09:29:43  Option 3: Create courses executed successfully
+2018.30.25 09:30:36  Option 5: View courses created executed successfully
+2018.30.25 09:30:40  you successfully logged in as a Instructor
+2018.30.25 09:30:46  Option 2: View students enrolled in different courses executed successfully
+2018.30.25 09:30:52  Option 2: View students enrolled in different courses executed successfully
+2018.31.25 09:31:18  Option 3: Create courses executed successfully
+2018.31.25 09:31:26  Option 5: View courses created executed successfully
+2018.31.25 09:31:39  Option 9: Delete course executed successfully
+2018.31.25 09:31:51  Option 5: View courses created executed successfully
+2018.31.25 09:31:55  Exiting the Online Education Application
+2018.32.25 09:32:45  you successfully logged in as a Student
+2018.19.25 10:19:02  you successfully logged in as a Instructor
+2018.19.25 10:19:15  Option 2: View students enrolled in different courses executed successfully
+2018.19.25 10:19:21  Option 5: View courses created executed successfully
+2018.19.25 10:19:44  Option 6: View section for each course executed successfully
+2018.22.25 10:22:19  you successfully logged in as a Instructor
+2018.22.25 10:22:35  Option 7: Create assignments,Quizzes or Exams executed successfully
+2018.22.25 10:22:39  Exiting the Online Education Application
+2018.20.25 11:20:50  you successfully logged in as a Instructor
+2018.24.25 11:24:26  Option 2: View students enrolled in different courses executed successfully
+2018.25.25 11:25:00  Exiting the Online Education Application
+2018.26.25 11:26:23  you successfully logged in as a Student
+2018.27.25 11:27:14  you successfully logged in as a Student
+2018.28.25 11:28:22  you successfully logged in as a Instructor
+2018.28.25 11:28:28  you successfully logged in as a Instructor
+2018.28.25 11:28:32  you successfully logged in as a Student
+2018.28.25 11:28:53  Option 2. View courses of a category executed successfully
+2018.28.25 11:28:58  you successfully logged in as a Student
+2018.29.25 11:29:05  Option 2. View courses of a category executed successfully
+2018.29.25 11:29:20  continue to choose the option
+2018.53.26 12:53:19  you successfully logged in as a Instructor
+2018.54.26 12:54:31  you successfully logged in as a Instructor
+2018.55.26 12:55:13  you successfully logged in as a Instructor
+2018.55.26 12:55:27  Primary key cannot be duplicate. Choose a different value
+2018.55.26 12:55:27  Option 3: Create courses executed successfully
+2018.55.26 12:55:46  Primary key cannot be duplicate. Choose a different value
+2018.24.26 05:24:50  you successfully logged in as a Instructor
+2018.25.26 05:25:47  you successfully logged in as a Instructor
+2018.26.26 05:26:19  you successfully logged in as a Instructor
+2018.29.26 05:29:18  Option 3: Create courses executed successfully
+2018.36.26 05:36:01  you successfully logged in as a Instructor
+2018.36.26 05:36:20  Option 8: Publish grades executed successfully
+2018.43.26 05:43:41  you successfully logged in as a Instructor
+2018.52.26 05:52:04  you successfully logged in as a Instructor
+2018.52.26 05:52:35  you successfully logged in as a Instructor
+2018.52.26 05:52:48  Option 3: Create courses executed successfully
+2018.52.26 05:52:56  Exiting the Online Education Application
+2018.55.26 05:55:53  you successfully logged in as a Instructor
+2018.56.26 05:56:20  you successfully logged in as a Instructor
+2018.58.26 05:58:36  you successfully logged in as a Instructor
+2018.58.26 05:58:51  Option 3: Create courses executed successfully
+2018.58.26 05:58:55  you successfully logged in as a Instructor
+2018.59.26 05:59:15  Option 3: Create courses executed successfully
+2018.59.26 05:59:22  Option 5: View courses created executed successfully
+2018.59.26 05:59:40  Primary key cannot be duplicate. Choose a different value
+2018.59.26 05:59:40  Option 3: Create courses executed successfully
+2018.59.26 05:59:54  Option 3: Create courses executed successfully
+2018.00.26 06:00:02  Option 5: View courses created executed successfully
+2018.00.26 06:00:53  Option 4: Create sections executed successfully
+2018.01.26 06:01:03  Option 1: View Category executed successfully
+2018.01.26 06:01:23  you successfully logged in as a Instructor
+2018.01.26 06:01:53  Option 3: Create courses executed successfully
+2018.01.26 06:01:57  Option 5: View courses created executed successfully
+2018.02.26 06:02:27  you successfully logged in as a Instructor
+2018.04.26 06:04:22  you successfully logged in as a Instructor
+2018.04.26 06:04:46  Primary key cannot be duplicate. Choose a different value
+2018.04.26 06:04:46  Option 3: Create courses executed successfully
+2018.04.26 06:04:51  you successfully logged in as a Instructor
+2018.05.26 06:05:06  Option 3: Create courses executed successfully
+2018.05.26 06:05:16  Option 5: View courses created executed successfully
+2018.05.26 06:05:38  Option 9: Delete course executed successfully
+2018.05.26 06:05:44  Option 5: View courses created executed successfully
+2018.08.26 06:08:57  you successfully logged in as a Instructor
+2018.09.26 06:09:10  Option 3: Create courses executed successfully
+2018.12.26 06:12:33  Exiting the Online Education Application
