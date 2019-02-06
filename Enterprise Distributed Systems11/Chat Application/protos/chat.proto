@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+package grpc;
+
+message Empty {}
+
+message CipherConfig {
+    bytes key = 1;
+    int32 mode = 2;
+    bytes init_vector = 3;
+    int32 block_size = 4;
+}
+
+message Data {
+    string sender = 1;
+    bytes message = 2;
+    string receiver = 3;
+    string onlineusers = 4;
+    bool connect = 5;
+    CipherConfig cipherconfig= 6;
+    string usergroups= 7;
+    string group= 8;
+}
+
+service ChatServer {
+    // This bi-directional stream makes it possible to send and receive Data between 2 persons
+    rpc ChatStream (Data) returns (stream Data);
+    rpc SendData (Data) returns (Empty);
+}

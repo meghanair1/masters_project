@@ -1,0 +1,270 @@
+Starting client server communication on localhost port 3001
+Starting server to server communication on 224.3.29.71 port 10000
+Starting client server communication on localhost port 3001
+Starting server to server communication on 224.3.29.71 port 10000
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3002
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Writing data to PickleDB...
+****** Updated data on node 3001 ******
+foo -> $10
+Received ballot from 3001
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3003
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3002
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3003
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$30
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3001
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$20
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3002
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3001
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3003
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$20
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3001
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3003
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3002
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$30
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3003
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3001
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3002
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$10
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$30
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3002
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$30
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Writing data to PickleDB...
+****** Updated data on node 3001 ******
+foo -> $10
+bar -> $30
+Received ballot from 3003
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$30
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3001
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$30
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3003
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$20
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Writing data to PickleDB...
+****** Updated data on node 3001 ******
+foo -> $20
+bar -> $30
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$20
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3002
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$20
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3001
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$20
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$20
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3003
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$20
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Writing data to PickleDB...
+****** Updated data on node 3001 ******
+foo -> $20
+bar -> $20
+Received ballot from 3001
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$20
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3002
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$20
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$30
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3002
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$30
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Writing data to PickleDB...
+****** Updated data on node 3001 ******
+foo -> $30
+bar -> $20
+Received ballot from 3003
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$30
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Received ballot from 3001
+Sending ballot for voting by other nodes.
+Node 3001 voted for foo:$30
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3000
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$10
+Received voting result from other nodes
+Consensus not reached. Aborting!
+Received ballot from 3002
+Sending ballot for voting by other nodes.
+Node 3001 voted for bar:$10
+Received voting result from other nodes
+Consensus reached by 3 nodes (MIN_QUORUM=3)
+Changing state of ballot to "Accept"
+Writing data to PickleDB...
+****** Updated data on node 3001 ******
+foo -> $30
+bar -> $10

@@ -1,0 +1,8 @@
+(venv) sh-3.2$ python fba_client.py 3000
+foo:$10 acknowledged by 3000. FBA initiated.
+bar:$30 acknowledged by 3000. FBA initiated.
+foo:$20 acknowledged by 3000. FBA initiated.
+bar:$20 acknowledged by 3000. FBA initiated.
+foo:$30 acknowledged by 3000. FBA initiated.
+bar:$10 acknowledged by 3000. FBA initiated.
+Closing socket

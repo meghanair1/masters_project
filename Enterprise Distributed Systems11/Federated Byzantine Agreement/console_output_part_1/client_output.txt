@@ -1,0 +1,29 @@
+(venv) sh-3.2$ python fba_client.py 3000
+foo:$10 acknowledged by 3000.
+bar:$30 acknowledged by 3000.
+foo:$20 acknowledged by 3000.
+bar:$20 acknowledged by 3000.
+foo:$30 acknowledged by 3000.
+bar:$10 acknowledged by 3000.
+Closing socket
+
+
+(venv) sh-3.2$ python fba_client.py 3001
+foo:$10 acknowledged by 3001.
+bar:$30 acknowledged by 3001.
+foo:$20 acknowledged by 3001.
+bar:$20 acknowledged by 3001.
+foo:$30 acknowledged by 3001.
+bar:$10 acknowledged by 3001.
+Closing socket
+
+
+
+(venv) sh-3.2$ python fba_client.py 3002
+foo:$10 acknowledged by 3002.
+bar:$30 acknowledged by 3002.
+foo:$20 acknowledged by 3002.
+bar:$20 acknowledged by 3002.
+foo:$30 acknowledged by 3002.
+bar:$10 acknowledged by 3002.
+Closing socket

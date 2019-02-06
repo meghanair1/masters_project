@@ -1,0 +1,25 @@
+Starting client server communication on localhost port 3000
+Writing data to PickleDB...
+****** Updated data on node 3000 ******
+foo -> $10
+bar -> $10
+Writing data to PickleDB...
+****** Updated data on node 3000 ******
+foo -> $10
+bar -> $30
+Writing data to PickleDB...
+****** Updated data on node 3000 ******
+foo -> $20
+bar -> $30
+Writing data to PickleDB...
+****** Updated data on node 3000 ******
+foo -> $20
+bar -> $20
+Writing data to PickleDB...
+****** Updated data on node 3000 ******
+foo -> $30
+bar -> $20
+Writing data to PickleDB...
+****** Updated data on node 3000 ******
+foo -> $30
+bar -> $10
